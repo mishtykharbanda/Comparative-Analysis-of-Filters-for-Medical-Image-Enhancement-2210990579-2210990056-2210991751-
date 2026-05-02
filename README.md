@@ -8,4 +8,4 @@ Comparative Analysis of Spatial, Edge-Preserving and Transform-Based Filters for
 
 Research
 
-Prepared, Ready to submit
+Submitted in Conference
